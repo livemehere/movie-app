@@ -1,6 +1,6 @@
 # React로 영화정보 앱 만들기
 
--[ ] css 반응형수정하기, 모바일에서 글씨 삐져나감
+- [ ] css 반응형수정하기, 모바일에서 글씨 삐져나감
 
 [예제](https://livemehere.github.io/movie-app/) 
 
